@@ -1,0 +1,116 @@
+use case #,use case title
+C11,Search for notes using text
+C19,Backup note
+H17,Request password to access
+C16,Open a note from archive
+C24,Enable/disable instant search
+F18,Share via apps
+H4,Add a note to the trash
+I7,Add a reminder with no repeat
+G15,Move multiple notes to trash
+E8,Select from previously used tags.
+G18,Copy content of a note
+D12,Filter by trash
+C10,Sort by title
+E5,Attach files to a note
+E12,Filter by reminder
+D8,Add a tag in content
+G17,Set password from settings page
+F23,Set video attachment size limit
+D5,Attach video to a note
+F7,Add a reminder with weekly repeat
+C5,Attach photo to a note
+D16,Restore a note from archive
+E15,Merge multiple notes
+C22,Toggle dynamic/static menu
+E24,Toggle swipe to trash/archive
+D17,Remove password
+F2,Get notification from the app
+H26,See app info
+G3,Save a text note with title only
+L4,Discard changes
+E16,Modify a note in archive
+C25,Enable/disable error reporting
+D11,Search for notes using voice input
+C13,Add a category for note
+D15,Select all notes
+E17,Open locked note with password
+C15,Add a reminder to multiple notes
+J4,See note information
+H7,Add a reminder with yearly repeat
+E14,Modify notes in trash
+D4,Change the content
+D21,Toggle attachment position (top/bottom)
+E7,Add a reminder with every day repeat
+C17,Add a password and security question
+D24,Enable/disable swipe actions on notes
+C3,Add a photo note
+H3,Save a text note with content only
+H15,Restore multiple notes from trash
+E2,Set reminder delay time (in seconds)
+G5,Attach sketch to a note
+E18,Share via bluetooth
+H18,Edit the image of a note and then share it
+F17,Open locked note with security question
+E26,See the app on-boarding tour
+E23,Move item to the end of unchecked list
+I4,Add a note to the archive
+C21,Toggle floating action button
+C6,Change language
+C26,Opt-in to the beta program
+E4,Add an item to the checklist
+E13,Remove a category from a note
+D18,Share within Omni Notes
+F14,Restore note from trash
+F12,Filter by category
+D23,Move item to the end of list when checked.
+E10,Sort by last modification date
+F20,Change color scheme to complete
+F15,Archive multiple notes
+D19,Import notes from backup
+I3,Remove an item from a checklist
+F22,Toggle back button action to show menu or exit
+I5,Attach timestamp to a note
+F26,See app change log
+E11,Search for notes using tags
+C4,Change the title
+J3,Disable checklist
+F19,Change backup folder
+E22,Toggle uncategorized group in menu
+C9,See reduced view
+C18,Quick share an item
+F4,Enable checklist
+G7,Add a reminder with monthly repeat
+D25,Enable/disable logging of files.
+E3,Add a text note
+H5,Attach location information to a note
+C8,Add a tag in the title
+D3,Add a checklist note
+D7,Delete a reminder from note
+D22,Show note count
+C20,Disable color scheme
+E20,Change color scheme to notes list only
+G26,See app statistics
+E19,Restore or delete backups
+K4,Add shortcut to home screen
+C7,Add a reminder to note
+D20,Change color scheme to strip only
+D13,Select a category for note
+C23,Keep position when an item is checked
+J5,Attach pushbullet to a note
+G4,Remove tick from item in checklist
+D9,See expanded view
+C12,Filter by archive
+D2,Choose ringtone for notification
+D26,See online manual
+G19,Erase all data
+F3,Save a text note with attachment
+K3,Tick item in checklist
+D10,Sort by creation date
+F10,Sort by reminder date
+F5,Attach recorded audio to a note
+C14,Empty trash
+D14,Open trash
+E21,Toggle date format
+C2,Toggle vibration on/off for notification
+F24,Toggle adding location to notes
